@@ -108,5 +108,3 @@ This program was developed by **Muhammad Shazam**.
 - **Setup**: Details how to set up the project, clone the repo, and install any necessary dependencies.
 - **Usage**: Explains how to use the program, including how to load narrators and validate Hadiths.
 - **License and Contributing**: Mentions the project's license and invites contributions.
-
-Feel free to update the links and any specific information based on your actual repository and project details.
