@@ -1,0 +1,150 @@
+[
+      {
+        "full_name": "Malik ibn Anas",
+        "aliases": ["Abu Abdullah Malik"],
+        "birth_year_AH": 93,
+        "death_year_AH": 179,
+        "birthplace": "Medina",
+        "primary_locations": ["Medina"],
+        "era": "Tabi' al-Tabi'un",
+        "traveled_for_hadith": true,
+        "reliability_assessments": {
+          "Al-Bukhari": "Thiqa",
+          "Ibn Hajar": "Thiqa",
+          "Al-Daraqutni": "Thiqa"
+        },
+        "memory_strength_over_time": {
+          "before_150_AH": "Strong",
+          "after_160_AH": "Strong"
+        },
+        "known_tadlis": false,
+        "scholarly_assessment_of_tadlis": {},
+        "direct_students": ["Al-Shafi'i"],
+        "direct_teachers": ["Nafi'", "Ibn Shihab al-Zuhri"],
+        "connected_chains": ["Muwatta Malik"],
+        "meeting_validation": {
+          "met_claimed_teachers": "Yes",
+          "evidence": "Documented in Tahdhib al-Tahdhib"
+        },
+        "possible_travel_locations": ["Mecca", "Baghdad"],
+        "historical_routes_used": true,
+        "geospatial_verification_of_isnad": true,
+        "most_reported_topics": ["Fiqh", "Hadith"],
+        "reported_hadith_count": 1720,
+        "hadith_categories": {"Sahih": 1500, "Hasan": 200, "Da'if": 20},
+        "contradictory_reports": false,
+        "scholarly_disagreements_on_role_in_isnads": false,
+        "flagged_for_human_review": false
+      },
+      {
+        "full_name": "Ibn Abi Hatim",
+        "aliases": ["Abu Muhammad al-Razi"],
+        "birth_year_AH": 240,
+        "death_year_AH": 327,
+        "birthplace": "Rey",
+        "primary_locations": ["Rey", "Baghdad", "Kufa"],
+        "era": "Muhaddith of the later period",
+        "traveled_for_hadith": true,
+        "reliability_assessments": {
+          "Ibn Hajar": "Thiqa",
+          "Al-Daraqutni": "Thiqa",
+          "Ibn Hibban": "Lenient"
+        },
+        "memory_strength_over_time": {
+          "before_310_AH": "Strong",
+          "after_320_AH": "Declined"
+        },
+        "known_tadlis": true,
+        "scholarly_assessment_of_tadlis": {"Ibn Hajar": "Yes", "Al-Dhahabi": "No"},
+        "direct_students": ["Al-Khatib al-Baghdadi"],
+        "direct_teachers": ["Ibn Sa'd", "Ibn Majah"],
+        "connected_chains": ["Musnad Ibn Abi Hatim"],
+        "meeting_validation": {
+          "met_claimed_teachers": "Yes",
+          "evidence": "Multiple scholarly confirmations"
+        },
+        "possible_travel_locations": ["Medina", "Basra", "Egypt"],
+        "historical_routes_used": true,
+        "geospatial_verification_of_isnad": true,
+        "most_reported_topics": ["Tafsir", "Hadith"],
+        "reported_hadith_count": 3500,
+        "hadith_categories": {"Sahih": 3000, "Hasan": 400, "Da'if": 100},
+        "contradictory_reports": false,
+        "scholarly_disagreements_on_role_in_isnads": false,
+        "flagged_for_human_review": false
+      },
+      {
+        "full_name": "Ahmad ibn Hanbal",
+        "aliases": ["Abu Abdullah Ahmad"],
+        "birth_year_AH": 164,
+        "death_year_AH": 241,
+        "birthplace": "Baghdad",
+        "primary_locations": ["Baghdad", "Mecca", "Medina", "Kufa", "Basra", "Yemen"],
+        "era": "Tabi' al-Tabi'un",
+        "traveled_for_hadith": true,
+        "reliability_assessments": {
+            "Al-Bukhari": "Thiqa",
+            "Ibn Hajar": "Thiqa",
+            "Al-Daraqutni": "Thiqa"
+        },
+        "memory_strength_over_time": {
+            "before_220_AH": "Strong",
+            "after_230_AH": "Strong"
+        },
+        "known_tadlis": false,
+        "scholarly_assessment_of_tadlis": {},
+        "direct_students": ["Al-Bukhari", "Muslim", "Ishaq ibn Rahwayh"],
+        "direct_teachers": ["Shu'ba ibn al-Hajjaj", "Sufyan ibn Uyaynah"],
+        "connected_chains": ["Musnad Ahmad"],
+        "meeting_validation": {
+            "met_claimed_teachers": "Yes",
+            "evidence": "Documented in Tabaqat al-Hanabila"
+        },
+        "possible_travel_locations": ["Mecca", "Medina", "Kufa", "Basra", "Yemen"],
+        "historical_routes_used": true,
+        "geospatial_verification_of_isnad": true,
+        "most_reported_topics": ["Fiqh", "Aqeedah", "Hadith"],
+        "reported_hadith_count": 28000,
+        "hadith_categories": {"Sahih": 25000, "Hasan": 2500, "Da'if": 500},
+        "contradictory_reports": false,
+        "scholarly_disagreements_on_role_in_isnads": false,
+        "flagged_for_human_review": false
+        },
+        {
+            "full_name": "Al-Bukhari",
+            "aliases": ["Muhammad ibn Isma'il al-Bukhari"],
+            "birth_year_AH": 194,
+            "death_year_AH": 256,
+            "birthplace": "Bukhara",
+            "primary_locations": ["Bukhara", "Mecca", "Medina", "Baghdad", "Kufa", "Basra", "Nishapur"],
+            "era": "Tabi' al-Tabi'un",
+            "traveled_for_hadith": true,
+            "reliability_assessments": {
+                "Ibn Hajar": "Thiqa",
+                "Al-Daraqutni": "Thiqa",
+                "Al-Dhahabi": "Thiqa"
+            },
+            "memory_strength_over_time": {
+                "before_240_AH": "Strong",
+                "after_250_AH": "Strong"
+            },
+            "known_tadlis": false,
+            "scholarly_assessment_of_tadlis": {},
+            "direct_students": ["Muslim ibn al-Hajjaj", "Ibn Abi Hatim", "Al-Tirmidhi"],
+            "direct_teachers": ["Ahmad ibn Hanbal", "Ishaq ibn Rahwayh", "Ali ibn al-Madini"],
+            "connected_chains": ["Sahih al-Bukhari"],
+            "meeting_validation": {
+                "met_claimed_teachers": "Yes",
+                "evidence": "Documented in Tabaqat al-Muhaddithin"
+            },
+            "possible_travel_locations": ["Mecca", "Medina", "Baghdad", "Kufa", "Basra", "Nishapur"],
+            "historical_routes_used": true,
+            "geospatial_verification_of_isnad": true,
+            "most_reported_topics": ["Hadith", "Aqeedah", "Fiqh"],
+            "reported_hadith_count": 7275,
+            "hadith_categories": {"Sahih": 7275},
+            "contradictory_reports": false,
+            "scholarly_disagreements_on_role_in_isnads": false,
+            "flagged_for_human_review": false
+        }
+]
